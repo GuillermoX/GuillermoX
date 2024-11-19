@@ -1,4 +1,9 @@
-## Hi there 👋
+## This is Guillermo's Github Page 
+------
+
+# About Me 🤓
+I'm a computer engeeniering student from Tarragona, Spain.
+Currently I'm studing at Universitat Rovira i Virgili.
 
 <!--
 **GuillermoX/GuillermoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
