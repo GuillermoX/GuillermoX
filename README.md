@@ -5,7 +5,7 @@
 
 🎓 Currently I'm studing at Universitat Rovira i Virgili
 
-![Prueba de imagen](/img/pikachu.png)
+![Prueba de imagen](.github/img/pikachu.png)
 
 <!--
 **GuillermoX/GuillermoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
