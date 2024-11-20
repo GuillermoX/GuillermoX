@@ -1,6 +1,9 @@
-## This is Guillermo's Github Page 
+<p align="center">
+# Welcome! This is Guillermo's Page  
+</p>
 
-### About Me 🤓
+
+## About Me 🤓
 🌍 I'm a computer engineering student from Tarragona, Spain
 
 🎓 Currently I'm studing at Universitat Rovira i Virgili
