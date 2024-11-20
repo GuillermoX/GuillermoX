@@ -6,7 +6,6 @@
 🎓 Currently I'm studing at Universitat Rovira i Virgili
 
 
-
 ![HollowKnight](.github/img/hollow.gif)
 
 <!--
