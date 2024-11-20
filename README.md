@@ -6,7 +6,7 @@
 🎓 Currently I'm studing at Universitat Rovira i Virgili
 
 
-<img src=https://github.com/GuillermoX/GuillermoX/blob/main/.github/img/hollow2.gif width="50" height"50">
+![<img src=https://github.com/GuillermoX/GuillermoX/blob/main/.github/img/hollow2.gif width="50" height"50">]
 
 <!--
 **GuillermoX/GuillermoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
