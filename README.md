@@ -1,6 +1,4 @@
-<p align="center">
-# Welcome! This is Guillermo's Page  
-</p>
+<h1 align="center"> Welcome! This is Guillermo's Page </h1>
 
 
 ## About Me 🤓
