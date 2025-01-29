@@ -4,7 +4,7 @@
 ## About Me 🤓
 🌍 I'm a computer engineering student from Tarragona, Spain
 
-🎓 Currently I'm studing at Universitat Rovira i Virgili
+🎓 Studing at Universitat Rovira i Virgili
 
 
 ![HollowKnight](/.github/img/hollow.gif)
