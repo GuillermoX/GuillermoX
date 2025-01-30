@@ -1,5 +1,3 @@
-<h1 align="center"> Welcome! This is Guillermo's Page </h1>
-
 
 ## About Me 🤓
 🌍 I'm a computer engineering student from Tarragona, Spain
