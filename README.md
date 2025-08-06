@@ -8,7 +8,7 @@
 
 🔭 I'm currently working on a tool to help 1st year students of Computer Engineering at URV. See PseudoTest repo to get more info.
 
-![HollowKnight](/.github/img/hollow.gif)
+![HollowKnight](/.github/img/pc.gif)
 <!--
 **GuillermoX/GuillermoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
