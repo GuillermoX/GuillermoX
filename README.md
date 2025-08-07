@@ -9,7 +9,7 @@
 🔭 I'm currently working on a tool to help 1st year students of Computer Engineering at URV. See PseudoTest repo to get more info.
 
 <p align="center">
-  <img src="/.github/img/pc.gif" width="400"/>
+  <img src="/.github/img/Profile/pc.gif" width="400"/>
 </p>
 <!--
 **GuillermoX/GuillermoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
