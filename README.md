@@ -1,12 +1,13 @@
 
 <h1 align="center">About Me 🤓</h1>
+
 🌍 I'm a computer engineering student from Tarragona, Spain
 
 🎓 Studing at Universitat Rovira i Virgili
 
-💡 I'm passionate about the computer graphic field, video games and low-level software.
+💡 I'm passionate about the computer graphic field, video games and low-level software
 
-🔭 I'm currently working on a tool to help 1st year students of Computer Engineering at URV. See PseudoTest repo to get more info.
+🔭 I'm currently working on a tool to help 1st year students of Computer Engineering at URV. See [PseudoTest](https://github.com/GuillermoX/PseudoTest) repo to get more info.
 
 <p align="center">
   <img src="/.github/img/Profile/pc.gif" width="300"/>
