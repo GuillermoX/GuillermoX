@@ -9,8 +9,10 @@
 
 🔭 I'm currently working on a tool to help 1st year students of Computer Engineering at URV. See [PseudoTest](https://github.com/GuillermoX/PseudoTest) repo to get more info.
 
+
 <p align="center">
   <img src="/.github/img/Profile/pc.gif" width="300"/>
+  <p align="center">Rendered with <a href="https://github.com/GuillermoX/My-First-3D-Renderer"> My-First-3D-Renderer </a> project</p>
 </p>
 
 
