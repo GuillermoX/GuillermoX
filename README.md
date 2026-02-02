@@ -12,7 +12,7 @@
 - [Software Rasterizer](https://github.com/GuillermoX/My-First-3D-Renderer): Built a full graphics pipeline from scratch in C (CPU-based).
 - [PseudoTest](https://github.com/GuillermoX/PseudoTest): A custom pseudo-compiler tool to help 1st-year Computer Engineering students at URV.
 
-🔭 Currently: Deep diving into GPU rendering with Modern OpenGL (3.3+) via [learnopengl.com](https://learnopengl.com).
+🔭 Currently: Deep diving into GPU rendering with Modern OpenGL (3.3+) via [learnopengl.com](https://learnopengl.com). See [learning-OpenGL](https://github.com/GuillermoX/learning-OpenGL) repo.
 
 <p align="center">
   <img src="/.github/img/Profile/pc.gif" width="300"/>
