@@ -1,20 +1,23 @@
 
 <h1 align="center">About Me 🤓</h1>
 
-🌍 I'm a computer engineering student from Tarragona, Spain
+🌍 I'm a Computer Engineering student from Tarragona, Spain
 
-🎓 Studing at Universitat Rovira i Virgili
+🎓 Studying at Universitat Rovira i Virgili
 
 💡 I'm passionate about the computer graphic field, video games and low-level software
 
-🔭 I'm currently working on a tool to help 1st year students of Computer Engineering at URV. See [PseudoTest](https://github.com/GuillermoX/PseudoTest) repo to get more info.
+🛠️ My Key Projects:
 
+- [Software Rasterizer](https://github.com/GuillermoX/My-First-3D-Renderer): Built a full graphics pipeline from scratch in C (CPU-based).
+- [PseudoTest](https://github.com/GuillermoX/PseudoTest): A custom pseudo-compiler tool to help 1st-year Computer Engineering students at URV.
+
+🔭 Currently: Deep diving into GPU rendering with Modern OpenGL (3.3+) via [learnopengl.com](https://learnopengl.com).
 
 <p align="center">
   <img src="/.github/img/Profile/pc.gif" width="300"/>
-  <p align="center">Rendered with <a href="https://github.com/GuillermoX/My-First-3D-Renderer"> My-First-3D-Renderer </a> project</p>
+  <p align="center">Software-Render using <a href="https://github.com/GuillermoX/My-First-3D-Renderer"> My-First-3D-Renderer </a> project</p>
 </p>
-
 
 
 <h3 align="center">You can reach me at ⬇️</h3>
